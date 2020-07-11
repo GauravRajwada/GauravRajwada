@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 [1.1]: https://github.com/GauravRajwada/GauravRajwada/blob/master/assets/icons/icons8-linkedin-48.png (linkedin icon with padding)
 [2.1]: https://github.com/GauravRajwada/GauravRajwada/blob/master/assets/icons/icons8-github-48.png (github icon with padding)
-[3.1]: https://github.com/GauravRajwada/GauravRajwada/blob/master/assets/icons/apple-touch-icon.png (protfolio icon with padding)
+[3.1]: https://github.com/GauravRajwada/GauravRajwada/blob/master/assets/icons/favicon.ico (protfolio icon with padding)
 [4.1]: https://github.com/GauravRajwada/GauravRajwada/blob/master/assets/icons/icons8-medium-new-48.png (medium icon with padding)
 
 <!-- links to my social media accounts -->
@@ -26,21 +26,20 @@ Here are some ideas to get you started:
 [3]: https://gauravrajwada.github.io/Protfolio/
 [4]: https://medium.com/@sintg1999
 
-# ❤ to Build - Software Engineer & Enthusiast!
+# ❤ I am Gaurav
 
 
-Hi, I'm Om — a **software engineer** at **HashedIn** building some real stuff through code & beer. My working principle is learning by doing. Always up for a discussion on  softwares, business, entrepreneurship, philosophy & socialpreneurship. ✌💖
+My profession thrilled by Thinking, Creating and Innovating. I am having interest in the field of **Computer Vision** and **Deep Learning**. I am passionate about solving real-world problems, learning new technologies, writing and maintaining integrity through honest work.
+ ✌💖
 
 <!-- section - intro -->
 
 <!-- section - social media icons -->
 
-[![linkedin ombharatiya][1.1]][1]
-[![github ombharatiya][2.1]][2]
-[![twitter ombharatiya][3.1]][3]
-[![medium ombharatiya][4.1]][4]
-[![stackoverflow om-bharatiya][5.1]][5]
-[![dev to ombharatiya][6.1]][6]
+[![linkedin GauravRajwada][1.1]][1]
+[![github GauravRajwada][2.1]][2]
+[![twitter GauravRajwada][3.1]][3]
+[![medium GauravRajwada][4.1]][4]
 
 <!-- section - social media icons -->
 
@@ -85,15 +84,8 @@ Thanks for reading about me. You can connect with me on ..
 
 <!-- section - social media icons -->
 
-[![linkedin ombharatiya][1.1]][1]
-[![github ombharatiya][2.1]][2]
-[![twitter ombharatiya][3.1]][3]
-[![medium ombharatiya][4.1]][4]
-[![stackoverflow om-bharatiya][5.1]][5]
-[![dev to ombharatiya][6.1]][6]
+[![linkedin GauravRajwada][1.1]][1]
+[![github GauravRajwada][2.1]][2]
+[![twitter GauravRajwada][3.1]][3]
+[![medium GauravRajwada][4.1]][4]
 
-<!-- section - social media icons -->
-
-<p align='center'>
-<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=ombharatiya.visitor-badge">
- <p/>
