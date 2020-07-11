@@ -60,8 +60,6 @@ Python .  C . C++
 
 🦄 I love to build machine learning models
 
-👨‍💻 I _BUILD_ resilient apps & services
-
 📰 Writing _TECH BLOGS_
 
 🍕 _Kaggle_Competitions_
