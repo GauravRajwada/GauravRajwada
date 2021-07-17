@@ -59,11 +59,11 @@ Python .  C . C++
 
 ## My Absolute Favorites .. 💖
 
-🦄 I love to build machine learning models
-
-📰 Writing _TECH BLOGS_
-
-🍕 _Kaggle_Competitions_
+-Playing with data
+--Exploratory Data Analysis 
+--Visualization
+-Training Model
+--Hyperparameter Tuning
 
 <!-- section - interests -->
 
