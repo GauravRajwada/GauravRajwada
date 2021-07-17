@@ -60,10 +60,14 @@ Python .  C . C++
 ## My Absolute Favorites .. 💖
 
 -Playing with data
---Exploratory Data Analysis 
---Visualization
+
+-Exploratory Data Analysis 
+
+-Visualization
+
 -Training Model
---Hyperparameter Tuning
+
+-Hyperparameter Tuning
 
 <!-- section - interests -->
 
