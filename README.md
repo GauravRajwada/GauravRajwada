@@ -10,7 +10,7 @@
 [1]: https://www.linkedin.com/in/gaurav-singh-b90369191/
 [2]: https://github.com/GauravRajwada
 [3]: https://gauravrajwada.github.io/Protfolio/
-[4]: https://medium.com/@sintg1999
+[4]: https://medium.com/@gauravrajwada
 
 # ❤ I am Gaurav
 
@@ -35,7 +35,7 @@ Thriving as a software engineer for over 2 years, I'm passionate about thinking,
 
 Languages: Python, C, C++
 
-Web Frameworks: Flask
+Web Frameworks: Flask, FastApi, ReactJs
 
 Machine Learning: Natural Language Processing, Computer Vision, Deep Learning
 
@@ -43,21 +43,12 @@ Databases: MySQL, Firebase
 
 <!-- section - skills -->
 
-## My Absolute Favorites... 💖
-
-- Playing with data
-- Exploratory Data Analysis
-- Visualization
-- Training Models
-- Hyperparameter Tuning
-
-<!-- section - interests -->
 
 <!-- section - blogs -->
 
 ## Check my blogs... ✨
 
-- [Medium](https://medium.com/@sintg1999)
+- [Medium](https://medium.com/@gauravrajwada)
 - [Techno Savvy](https://technosavvy2020.blogspot.com/)
 
 <!-- section - blogs -->
