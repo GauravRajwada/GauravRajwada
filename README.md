@@ -14,7 +14,7 @@
 
 # ❤ I am Gaurav
 
-Thriving as a software engineer for over 2 years, I'm passionate about thinking, creating, and innovating. I derive joy from solving real-world problems, embracing new technologies, and maintaining integrity through honest work. ✌💖
+Thriving as a software engineer for over 3 years, I'm passionate about thinking, creating, and innovating. I derive joy from solving real-world problems, embracing new technologies, and maintaining integrity through honest work. ✌💖
 
 <!-- section - intro -->
 
@@ -33,13 +33,15 @@ Thriving as a software engineer for over 2 years, I'm passionate about thinking,
 
 ## I work on... 💻
 
-Languages: Python, C, C++
+**Languages**: Python, JavaScript, Golang.
 
-Web Frameworks: Flask, FastApi, ReactJs
+**Tools**: Vs-code, GitHub.
 
-Machine Learning: Natural Language Processing, Computer Vision, Deep Learning
+**Frameworks**: FastAPI, Flask, ReactJS, Django.
 
-Databases: MySQL, Firebase
+**Database**: MySQL (Relational), Cloud Spanner, MongoDB (No-SQL)
+
+**Technology**: Google Cloud Platform, Pub/Sub, Message queues (MQ), Microservices, Docker, Kubernetes, CI/CD etc.
 
 <!-- section - skills -->
 
