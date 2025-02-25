@@ -1,67 +1,66 @@
 ### Hi there! 👋
 
-[1.1]: https://github.com/GauravRajwada/GauravRajwada/blob/master/assets/icons/icons8-linkedin-48.png (linkedin icon with padding)
-[2.1]: https://github.com/GauravRajwada/GauravRajwada/blob/master/assets/icons/icons8-github-48.png (github icon with padding)
-[3.1]: https://github.com/GauravRajwada/GauravRajwada/blob/master/assets/icons/favicon.ico (portfolio icon with padding)
-[4.1]: https://github.com/GauravRajwada/GauravRajwada/blob/master/assets/icons/icons8-medium-new-48.png (medium icon with padding)
+[1.1]: https://github.com/GauravRajwada/GauravRajwada/blob/master/assets/icons/icons8-linkedin-48.png (LinkedIn icon)
+[2.1]: https://github.com/GauravRajwada/GauravRajwada/blob/master/assets/icons/icons8-github-48.png (GitHub icon)
+[3.1]: https://github.com/GauravRajwada/GauravRajwada/blob/master/assets/icons/favicon.ico (Portfolio icon)
+[4.1]: https://github.com/GauravRajwada/GauravRajwada/blob/master/assets/icons/icons8-medium-new-48.png (Medium icon)
 
-<!-- links to my social media accounts -->
-
-[1]: https://www.linkedin.com/in/gaurav-singh-b90369191/
+<!-- Social Media Links -->
+[1]: https://www.linkedin.com/in/gauravrajwada/
 [2]: https://github.com/GauravRajwada
-[3]: https://gauravrajwada.github.io/Protfolio/
+[3]: https://gauravrajwada.github.io/Portfolio/
 [4]: https://medium.com/@gauravrajwada
-
-# ❤ I am Gaurav
-
-Thriving as a software engineer for over 3 years, I'm passionate about thinking, creating, and innovating. I derive joy from solving real-world problems, embracing new technologies, and maintaining integrity through honest work. ✌💖
-
-<!-- section - intro -->
-
-<!-- section - social media icons -->
-
-[![linkedin GauravRajwada][1.1]][1]
-[![github GauravRajwada][2.1]][2]
-[![portfolio GauravRajwada][3.1]][3]
-[![medium GauravRajwada][4.1]][4]
-
-<!-- section - social media icons -->
 
 ---
 
-<!-- section - skills -->
+# 🚀 Gaurav Singh 
 
-## I work on... 💻
+**Senior Software Engineer | Backend Specialist | Tech Enthusiast**
 
-**Languages**: Python, JavaScript, Golang.
+🔹 Passionate about building scalable, high-performance applications.  
+🔹 Experienced in backend development, system design, and cloud computing.  
+🔹 Always curious to learn and contribute to open-source projects.  
 
-**Tools**: Vs-code, GitHub.
+---
 
-**Frameworks**: FastAPI, Flask, ReactJS, Django.
+## 🛠️ Technical Skills  
 
-**Database**: MySQL (Relational), Cloud Spanner, MongoDB (No-SQL)
+**Languages:** Python, JavaScript, Golang  
+**Frameworks:** FastAPI, Flask, ReactJS, Django  
+**Databases:** MySQL, Cloud Spanner, MongoDB  
+**Technologies:** Google Cloud Platform, Pub/Sub, Message Queues, Microservices, Docker, Kubernetes, CI/CD  
+**Tools:** VS Code, GitHub  
 
-**Technology**: Google Cloud Platform, Pub/Sub, Message queues (MQ), Microservices, Docker, Kubernetes, CI/CD etc.
+---
 
-<!-- section - skills -->
+## 🏆 Key Achievements  
 
+✅ Reduced API latency by **20%** through real-time data streaming solutions.  
+✅ Saved **$3,000 annually** by replacing MongoDB Atlas streaming with WebSocket-based solutions.  
+✅ Achieved **cost savings of 5 Lakhs** by implementing **Time-Based Jobs and Instant Jobs** using Google Cloud Scheduler.  
+✅ Published a **research paper on 'Smart Police Station'** at **IIT Kharagpur** (2021).  
+✅ Achieved **Rank 483 in a Kaggle competition** (2020).  
+✅ Built **CargoApp** for transporters.
 
-<!-- section - blogs -->
+---
 
-## Check my blogs... ✨
+## 📂 Featured Projects  
 
-- [Medium](https://medium.com/@gauravrajwada)
-- [Techno Savvy](https://technosavvy2020.blogspot.com/)
+🚛 **CargoApp**: Mobile app for transporters  
+🔗 [Project Link](https://drive.google.com/drive/folders/1W_ul7tx99uVecbZJ6emCc62YfU2FLHok)  
 
-<!-- section - blogs -->
+🔬 **Techno-Veda**: AI-driven disease prediction  
+🔗 [Project Details](https://github.com/GauravRajwada/Techno-Veda)  
 
-## Thank you and Namaste! 🙏
+🚔 **Smart Police Station**: College research project using Python & MySQL  
 
-Thanks for getting to know me. Feel free to connect with me on...
+---
 
-<!-- section - social media icons -->
+## 📢 Let's Connect  
 
-[![linkedin GauravRajwada][1.1]][1]
-[![github GauravRajwada][2.1]][2]
-[![twitter GauravRajwada][3.1]][3]
-[![medium GauravRajwada][4.1]][4]
+[![LinkedIn][1.1]][1] [![GitHub][2.1]][2] [![Medium][4.1]][4]  
+
+📧 **Email**: sintg1999@gmail.com  
+🌍 **Location**: Gurugram, India  
+
+Thanks for visiting my profile! 🚀  
